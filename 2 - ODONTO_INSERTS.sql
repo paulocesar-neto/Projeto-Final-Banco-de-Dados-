@@ -70,16 +70,16 @@ VALUES
 (1,  2,  3, '2026-03-20 08:00:00', 'Realizar limpeza e clareamento',                     'Uso de enxaguante bucal por 7 dias',       'realizada'),
 (2,  4,  6, '2026-03-20 09:15:00', 'Realizar ajuste de prótese e limpeza',               'Analgésico por 3 dias',                    'realizada'),
 (3,  2,  5, '2026-03-21 10:00:00', 'Extração dentária, tratamento de cárie e manutenção','Antibiótico por 7 dias',                   'realizada'),
-(9,  10, 8, '2026-03-21 11:30:00', 'Avaliação ortodôntica para iniciar tratamento',       'Retorno em 30 dias',                       'agendada'),
-(10, 1,  1, '2026-03-22 13:00:00', 'Necessita de clareamento dental e limpeza',           'Evitar alimentos escuros por 48h',         'agendada'),
+(9,  10, 8, '2026-03-21 11:30:00', 'Avaliação ortodôntica para iniciar tratamento',       'Retorno em 30 dias',                       'realizada'),
+(10, 1,  1, '2026-03-22 13:00:00', 'Necessita de clareamento dental e limpeza',           'Evitar alimentos escuros por 48h',         'realizada'),
 (8,  7,  9, '2026-03-22 14:20:00', 'Realização de manutenção de aparelho',                'Uso contínuo de elástico',                 'cancelada'),
-(4,  1,  6, '2026-03-23 15:00:00', 'Precisa de tratamento para gengivite',                'Escovação reforçada e fio dental',         'realizada'),
+(4,  1,  6, '2026-03-23 15:00:00', 'Precisa de tratamento para gengivite',                'Escovação reforçada e fio dental',         'agendada'),
 (6,  4,  4, '2026-03-23 16:30:00', 'Aplicação total de flúor para limpeza',               'Não ingerir alimentos por 30 min',         'agendada'),
-(4,  3,  8, '2026-03-24 17:00:00', 'Consulta de rotina e limpeza dentária',               'Sem prescrição',                           'realizada'),
+(4,  3,  8, '2026-03-24 17:00:00', 'Consulta de rotina e limpeza dentária',               'Sem prescrição',                           'agendada'),
 (1,  10, 7, '2026-03-24 18:15:00', 'Precisa de ajuste na prótese',                        'Retorno em 15 dias',                       'agendada'),
-(10, 6,  5, '2026-03-23 15:00:00', 'Precisa de tratamento para gengivite',                'Uso de antiinflamatório 3x ao dia',        'realizada'),
+(10, 6,  5, '2026-03-23 15:00:00', 'Precisa de tratamento para gengivite',                'Uso de antiinflamatório 3x ao dia',        'agendada'),
 (6,  5,  4, '2026-03-23 16:30:00', 'Realizar aplicação de flúor',                         'Não ingerir alimentos por 30 min',         'agendada'),
-(7,  8,  10,'2026-03-24 17:00:00', 'Consulta de rotina e limpeza dentária',               'Sem prescrição',                           'realizada'),
+(7,  8,  10,'2026-03-24 17:00:00', 'Consulta de rotina e limpeza dentária',               'Sem prescrição',                           'agendada'),
 (5,  5,  7, '2026-03-24 18:15:00', 'Precisa de ajuste na prótese',                        'Retorno em 20 dias',                       'agendada');
 
 
@@ -101,3 +101,5 @@ VALUES
 (12, 8),
 (13, 9), (13, 1),
 (14, 10);
+
+select * from consulta order by data_horario;
