@@ -1,8 +1,8 @@
-# 💡 Projeto Final Banco de Dados 💻
+# Projeto Final Banco de Dados 💻
 Projeto Final da matéria de **Banco de dados** da residência do **Serratec** , onde foi pedido para criarmos um Sistema de Gestão para Clínica Odontológica!
 
-O Projeto consiste em permitir a manipulação de dados, permitindo o agendamento de cansultas, registro de atendimentos e controle de 
-profissionais e pacientes.Permitindo assim o melhor gerenciamento na clinica através do Banco de dados, contendo infromações 
+O Projeto consiste em permitir a manipulação de dados, permitindo o agendamento de consultas, registro de atendimentos e controle de 
+profissionais e pacientes. Permitindo assim o melhor gerenciamento na clinica através do Banco de dados, contendo infromações 
 de todos os registros para facilitar o controle.
 Através das tabelas criadas no Banco de Dados usando o SQL, podemos realizar:
 - Cadastro de Pacientes
@@ -33,8 +33,19 @@ Essa modelam tem como requisito um Sistema de gestão para clinica odontológica
 
 Esse projeto foi desenvolvido no banco de dados ultilizando linguagem SQL:                                                                                              **PostgreSQL**, **PgAdmin4**                                                                                                                                 
 Respeitando a criação de tabelas, inserindo registros dentro das tabelas, atualizando e removendo dados, manipulando dados e informações
-com tudo que aprendemos na disciplina aplicada na residência
+com tudo que aprendemos na disciplina aplicada na residência.
 
+   
+ ## Modelo Conceitual💡
+
+![Modelo Conceitual](https://github.com/user-attachments/assets/fb8c42b0-1bd5-46b5-b7a5-91801418854a)
+
+
+
+
+ ## Modelo Lógico🧠
+
+![Modelo Lógico](https://github.com/user-attachments/assets/1c8e7708-9228-48a6-a560-aba94ee56f73)
 
 
 
