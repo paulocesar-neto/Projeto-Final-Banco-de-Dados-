@@ -57,7 +57,6 @@ Os arquivos .SQL Devem ser rodados na seguinte ordem:
 
 
 
-
  ## Modelo Lógico🧠
 
 ![Modelo Lógico](https://github.com/user-attachments/assets/1c8e7708-9228-48a6-a560-aba94ee56f73)
