@@ -35,6 +35,21 @@ Esse projeto foi desenvolvido no banco de dados ultilizando linguagem SQL:      
 Respeitando a criação de tabelas, inserindo registros dentro das tabelas, atualizando e removendo dados, manipulando dados e informações
 com tudo que aprendemos na disciplina aplicada na residência.
 
+## Arquivos do Projeto 📑
+Todos os arquivos do projeto são .SQL pois foram feitos e salvos no **PgAdmin 4**                                                
+Os arquivos .SQL Devem ser rodados na seguinte ordem:                                                                            
+
+1 - ODONTO_TABELAS.sql                                                                                                           
+2 - ODONTO_INSERTS.sql                                                                                                           
+3 - ODONTO_INDEXS.sql                                                                                                            
+4 - ODONTO_UPDATES.sql                                                                                                           
+5 - ODONTO_DELETE.sql                                                                                                            
+6 - ODONTO_CONSULTA_CONSULTA_CONTXT01.sql                                                                                        
+7 - ODONTO_CONSULTA_CONSULTA_CONTXT02.sql                                                                                       
+8 - ODONTO_CONSULTA_CONSULTA_CONTXT03.sql                                                                                      
+9 - ODONTO_VIEW_CONTXT04.sql                                                                                      
+10 - ODONTO_CONSULTA_CONSULTA_CONTXT05.sql                                                                                      
+
    
  ## Modelo Conceitual💡
 
